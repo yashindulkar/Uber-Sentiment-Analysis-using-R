@@ -20,25 +20,24 @@
 
 ❗️  Sentiments Classification using Bar Plot
 
-![](https://github.com/yashindulkar/Ola-Sentimental-Analysis/blob/master/Images/Sentiment_Ola.png)
+![](https://github.com/yashindulkar/Uber-Sentimental-Analysis/blob/master/Images/Sentiment_Uber.png)
 
 ❗️  WordCloud 
 
-![](https://github.com/yashindulkar/Ola-Sentimental-Analysis/blob/master/Images/WordCloud.png)
-
+![](https://github.com/yashindulkar/Uber-Sentimental-Analysis/blob/master/Images/WordCloud.png)
 
 ❗️  Training Scatter Plot
 
-![](https://github.com/yashindulkar/Ola-Sentimental-Analysis/blob/master/Images/Training.png)
+![](https://github.com/yashindulkar/Uber-Sentimental-Analysis/blob/master/Images/Training.png)
 
 ❗️  Testing Scatter Plot
 
-![](https://github.com/yashindulkar/Ola-Sentimental-Analysis/blob/master/Images/Testing.png)
+![](https://github.com/yashindulkar/Uber-Sentimental-Analysis/blob/master/Images/Testing.png)
 
 ❗️  SVM Algorithm
 
-![](https://github.com/yashindulkar/Ola-Sentimental-Analysis/blob/master/Images/SVM.PNG)
+![](https://github.com/yashindulkar/Uber-Sentimental-Analysis/blob/master/Images/SVM.PNG)
 
 ❗️  Naive Bayes Algorithm
 
-![](https://github.com/yashindulkar/Ola-Sentimental-Analysis/blob/master/Images/NB.PNG)
+![](https://github.com/yashindulkar/Uber-Sentimental-Analysis/blob/master/Images/NB.PNG)
